@@ -1,0 +1,43 @@
+---
+title: "MTH312: Official Statistics"
+author: "Dootika Vats"
+format: pdf
+editor: visual
+---
+
+The Ministry of Statistics and Programme Implementation maintains a repository of survey data at <https://microdata.gov.in/nada43/index.php/home>
+
+Some of the recently released micro data are on
+
+i\. Annual Survey of Industries 2022-23
+
+ii\. Periodic Labour Force Survey July 2023 to June 2024
+
+iii\. Comprehensive Annual Modular Survey (CAMS): NSS 79th round 2022-23
+
+iv\. Household Consumer Expenditure Survey 2022-23
+
+v\. Annual Survey of Unincorporated Sector Enterprises 2022-23
+
+The respective reports, schedule of the survey, layout of the data, other important instructions for data extraction and analysis in readme file are available under the Documentation tab of the micro-data website. It is advised that the documents, specially the schedule of the survey, layout of the data, other important instructions for data extraction and analysis in readme file, etc. may be read thoroughly before starting the data extraction and analysis. Generation of simple initial tables as done in the preliminary tables in the respective reports may be done independently to match with the figures in the published reports to be sure that the data extraction is done correctly.
+
+Further, the Ministry also collects data from other Ministries and this year's data is available at: <https://mospi.gov.in/sites/default/files/publication_reports/Compendium_of_Datasets_and_Registries_in_India_2024_1.pdf?download=1>
+
+\newpage
+
+This project is completely open ended. You can choose whatever data or datasets that you like. But the goal is to provide insights from the data:
+
+1.  A project with only visualizations and summaries [will not be]{.underline} acceptable.
+2.  I encourage you to cross-reference different datasets and these two databases to find trends, analysis, and cause and effect of various factors.
+3.  [The goal:]{.underline} arrive at suggestions for crucial policy changes for the government.
+
+A maximum 5-page report is due on **16th February 8pm.** You may choose your own groups for this project.
+
+The report must have:
+
+1.  Background on data used
+2.  Analysis done (you can use any methods you'd like)
+3.  Policy recommendations with justification
+4.  Acknowledgement thanking MoSPI for data and citing data sources.
+
+Top 5 projects will be shared with Indian Statistical Service officers in the Ministry of Statistics and Programme Implementation.
